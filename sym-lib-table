@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name BitBadge-rescue)(type Legacy)(uri ${KIPRJMOD}/BitBadge-rescue.lib)(options "")(descr ""))
+)

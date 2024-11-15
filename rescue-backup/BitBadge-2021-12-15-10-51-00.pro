@@ -1,10 +1,6 @@
-update=Mon 31 Jul 2017 10:04:56 AM MDT
+update=Fre 27 Jul 2018 16:53:33 CEST
 version=1
 last_client=kicad
-[general]
-version=1
-RootSch=
-BoardNm=
 [pcbnew]
 version=1
 LastNetListRead=
@@ -27,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -63,3 +61,4 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
+LibName33=/home/gaudi/Documents/Projekte/KiCadLibrary/GaudiLabsPartsLibrary

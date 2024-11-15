@@ -1,0 +1,13 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"REF**";"MountingHole_BitBadge";1;"MountingHole_6mm_Pad_Via";;;
+2;"G***";"Peace_logo";1;"LOGO";;;
+3;"SW1";"SWITCH_MSS23D19";1;"SW_2P3T";;;
+4;"R1";"R_1210_HandSoldering";1;"R";;;
+5;"BT2";"CR2032_Holder";1;"Battery_Cell";;;
+6;"REF**,REF**";"MountingHole_3.2mm_M3_ISO14580";2;"MountingHole_3.2mm_M3_ISO14580";;;
+7;"G***";"BitBadge_logo";1;"LOGO";;;
+8;"G***";"BitBadge_logo_mask";1;"LOGO";;;
+9;"G***";"GitHubCat_mask";1;"LOGO";;;
+10;"BT1";"BAT_HOLDER_AAA_DOUBLE_BITBADGE";1;"Battery_Cell_2x";;;
+11;"D61,D60,D59,D58,D57,D56,D55,D54,D53,D52,D51,D50,D49,D48,D47,D46,D45,D44,D43,D42,D41,D40,D39,D38,D37,D36,D35,D34,D33,D32,D31,D30,D29,D28,D27,D26,D25,D24,D23,D22,D21,D20,D19,D18,D17,D16,D15,D14,D13,D12,D11,D10,D9,D8,D7,D6,D5,D4,D3,D2,D1";"TopLed_BitBadge_blink";61;"LED_ALT";;;
+12;"FID1,FID2,FID3,FID4";"Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom";4;"Fiducial";;;

@@ -1,0 +1,8 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"BT2","Battery_Cell","CR2032_Holder",32.000000,33.000000,0.000000,bottom
+"FID1","Fiducial","Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom",53.500000,11.000000,0.000000,bottom
+"FID3","Fiducial","Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom",10.500000,55.000000,0.000000,bottom
+"G***","LOGO","Peace_logo",14.000000,17.000000,180.000000,bottom
+"G***","LOGO","BitBadge_logo",32.500000,51.410000,180.000000,bottom
+"G***","LOGO","BitBadge_logo_mask",32.420000,51.400000,180.000000,bottom
+"G***","LOGO","GitHubCat_mask",50.000000,17.000000,180.000000,bottom
